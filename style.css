@@ -1,0 +1,24 @@
+#name {
+   font-family:  Helvetica;
+   text-align: center;
+   padding: 15px;
+   margin: 10px;
+}
+.information {
+    text-align: center;
+    border-style: dotted;
+}
+.end {
+    color: red;
+    text-align: center;
+    visibility:hidden;
+}
+body {
+    background-color: bisque;
+
+}
+.end:hover{
+    visibility: visible;
+    color: red;
+    text-align: center;
+}
